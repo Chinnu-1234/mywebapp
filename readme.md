@@ -1,3 +1,3 @@
-#MY APP#
+MY APP
 
-#This is my App testing login#
+This is my App testing login
